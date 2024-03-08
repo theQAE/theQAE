@@ -1,7 +1,15 @@
-# Welcome 👋, I'm Anthony Sanchez
-### Software Quality Assurance Engineer
+# Welcome 👋 
+### I'm Anthony Sanchez
+#### Software Quality Assurance Engineer
+***
+### About
+I have been on a journey to create top-tier quality software for over 9 years. I aim to share my experiences and knowledge while contributing to innovative software solutions. Let’s create something amazing together!
 
-🔭 I’m currently working on a few API and UI repositories to demonstrate my proficiency in test automation.
+- 🔭 I’m currently working on a few API and UI repositories to demonstrate my proficiency in test automation.
+***
+### Let's Connect
+- https://theqae.com <br>
+- https://www.linkedin.com/in/sanchezant/
 <!--
 **theqae/theqae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
