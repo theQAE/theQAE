@@ -15,6 +15,7 @@ I have been on a journey to create top-tier quality software for over 9 years. I
 ![Static Badge](https://img.shields.io/badge/python-%233776AB?logo=python&logoColor=%233776AB&labelColor=white&color=blue) 
 ![Static Badge](https://img.shields.io/badge/selenium-%2343B02A?logo=selenium&logoColor=%2343B02A&labelColor=white&color=blue)
 ![Static Badge](https://img.shields.io/badge/cypress-%2369D3A7?logo=cypress&logoColor=%2369D3A7&labelColor=white&color=blue)
+![Static Badge](https://img.shields.io/badge/postman-%23FF6C37?logo=postman&logoColor=%23FF6C37&labelColor=white&color=blue)
 
 ***
 ### Let's Connect
