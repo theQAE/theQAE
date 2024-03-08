@@ -1,5 +1,7 @@
-### Hi there 👋
+# Welcome 👋, I'm Anthony Sanchez
+### Software Quality Assurance Engineer
 
+🔭 I’m currently working on a few API and UI repositories to demonstrate my proficiency in test automation.
 <!--
 **theqae/theqae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
