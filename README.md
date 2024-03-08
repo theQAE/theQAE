@@ -10,12 +10,17 @@ I have been on a journey to create top-tier quality software for over 9 years. I
 🔭 I’m currently working on a few API and UI repositories to demonstrate my proficiency in test automation.
 ***
 ### Languages and Tools:
-<a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
+
+![Static Badge](https://img.shields.io/badge/javascript-%20%23000000?logo=javascript&logoColor=%20%23000000&labelColor=white&color=blue)
+![Static Badge](https://img.shields.io/badge/python-%233776AB?logo=python&logoColor=%233776AB&labelColor=white&color=blue) 
+![Static Badge](https://img.shields.io/badge/selenium-%2343B02A?logo=selenium&logoColor=%2343B02A&labelColor=white&color=blue)
+![Static Badge](https://img.shields.io/badge/cypress-%2369D3A7?logo=cypress&logoColor=%2369D3A7&labelColor=white&color=blue)
 
 ***
 ### Let's Connect
-[The Quality Assurance Engineer](https://theqae.com) <br>
-[LinkedIn](https://www.linkedin.com/in/sanchezant/)
+![Static Badge](https://img.shields.io/badge/The%20Quality%20Assurance%20Engineer-%2321759B?logo=wordpress&logoColor=%2321759B&labelColor=white&color=blue&link=https%3A%2F%2Ftheqae.com)
+
+![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?logo=linkedIn&logoColor=%230A66C2&labelColor=white&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsanchezant%2F)
 </div>
 <!--
 **theqae/theqae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
